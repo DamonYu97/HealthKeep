@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HealthKeep</string>
+    <string name="sky">Sky</string>
+    <string name="password">密码</string>
+    <string name="username">用户名</string>
+    <string name="sign_in">登入</string>
+    <string name="sign_up">注册</string>
+    <string name="forget">忘记密码</string>
+    <string name="or">或</string>
+    <string name="back">BACK</string>
+    <string name="sign_in_with_wechat">微信</string>
+    <string name="logo">LOGO</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_me">我</string>
+    <string name="title_discover">发现</string>
+    <string name="title_home">主页</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="trend">趋势</string>
+</resources>

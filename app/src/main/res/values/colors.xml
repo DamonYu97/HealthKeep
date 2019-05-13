@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorUnderlineBlue">#1E90FF</color>
+    <color name="colorButtonBlue">#36c2f7</color>
+    <color name="colorGreen">#32CD32</color>
+    <color name="colorGray">#555555</color>
+    <color name="colorLightGreen">#d5fcf0</color>
+    <color name="colorLightBlue">#d6f1f7</color>
+    <color name="gap_color">#eeeeee</color>
+    <color name="colorCardWhite">#F2F2F2</color>
+</resources>
